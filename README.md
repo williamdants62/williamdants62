@@ -32,11 +32,6 @@
 
 ---
 
-## 🧰 Tech & Tools
-VS Code · Git · C · Python
-
----
-
 ## 📫 Social Media
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@ElBila69)
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/williamdants06)
