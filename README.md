@@ -5,7 +5,7 @@
 ---
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=williamdants62&include_all_commits=true&show_icons=true&theme=dark" alt="Willian's GitHub stats" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=williamdants62&include_all_commits=true&show_icons=true&theme=dark" alt="William's GitHub stats" />
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=williamdants62&layout=compact&theme=dark" alt="Most used languages" />
 </div>
 
