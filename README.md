@@ -1,6 +1,10 @@
-## 🤠 Hi, I'm William 
+## 🤠 Hi, I'm William
 
-- 👾 Working on some games
+- 🎓 Computer Engineering student
+
+- 👾 Game developing enthusiast
+
+- 💡 Exploring C and Python
 
 <div>
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=williamdants62&include_all_commits=true&show_icons=true&theme=dark"/>
@@ -8,6 +12,8 @@
 </div>
 
 <div style="display: inline_block"><br>
+  <img align="center" alt="VS-Code" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg">
+  <img align="center" alt="Git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
   <img align="center" alt="C" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg">
   <img align="center" alt="Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
   <img align="right" alt="bila_animado" src="https://media.discordapp.net/attachments/1360253056025100469/1421980293358948453/bila-head-png.gif?ex=68db01d9&is=68d9b059&hm=4e0cde6f4c8cff766c3d2bfedde297c9cb7dbfbff28ffeb00bf712a1923c977c&=&width=203&height=203">
