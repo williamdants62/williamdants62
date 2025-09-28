@@ -1,6 +1,6 @@
 ## 🤠 Hi, I'm William
 
-🎓 Computer Engineering student at UFPB · 👾 Game dev enthusiast · 💡 Exploring **C** & **Python**
+🎓 Computer Engineering student at UFPB | 👾 Game dev enthusiast | 💡 Exploring **C** & **Python**
 
 ---
 
