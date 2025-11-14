@@ -22,13 +22,14 @@
 </p>
 
 <p align="center">
-  <img src="assets/bila-head-png.gif" />
+  <img src="assets/bilak-head.gif" />
 </p>
 
 ---
 
 ## 🚀 Projects
 - **[C-Tale](https://github.com/danilocb21/projeto-rpg)** — An Undertale-like RPG for an university project.
+- **[Dexter Bot](https://github.com/williamdants62/dexter-bot.git)** - A Python-based Discord bot with integrated AI and administration utilities.
 
 ---
 
