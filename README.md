@@ -22,7 +22,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/bilak-head.gif" />
+  <img src="assets/bilak-head.gif"/>
 </p>
 
 ---
